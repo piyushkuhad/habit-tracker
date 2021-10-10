@@ -1,1 +1,1 @@
-# Habit Trakcer Client - React.js
+# Habit Tracker Client - React.js
