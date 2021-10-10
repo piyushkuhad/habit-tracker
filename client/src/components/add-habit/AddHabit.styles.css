@@ -1,0 +1,7 @@
+.cm-custom-day-chip > div {
+  border: 2px solid transparent;
+}
+
+.cm-custom-day-chip > .cm-active-chip {
+  border-color: #1976d2;
+}

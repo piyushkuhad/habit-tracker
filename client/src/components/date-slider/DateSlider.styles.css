@@ -1,0 +1,19 @@
+.cm-date-slide-item {
+  padding: 10px 15px;
+  margin: 0 5px;
+}
+
+.cm-date-slide-item h2 {
+  margin: 0 0 5px;
+  font-size: 24px;
+}
+
+.cm-date-slide-item h4 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.cm-date-slide-current {
+  background-color: #eee;
+}
